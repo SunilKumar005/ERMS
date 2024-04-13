@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Employee Management System
+Type=Application
+Terminal=true
+Exec=python3 employee.py
+NoDisplay=false
+Name[en]=Employee Management System
+Name[en_us]=Employee Management System
+Comment=A System for Managing Records
+
